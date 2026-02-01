@@ -10,13 +10,7 @@ Hi! I'm **Aabid Sattar** 😊
 🎓 **AI/ML 1st Year Student** at **Polaris School Of Technology**  
 🌱 Currently exploring **Open Source** and trying to contribute through **LFX**
 
-</div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="260"/>
-</div>
-
-</div>
 
 
 ## 🌐 Connect With Me
