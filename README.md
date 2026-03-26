@@ -15,8 +15,8 @@ Hi! I'm **Aabid Sattar** 😊
 
 ## 🌐 Connect With Me
 
-- 🔗 **LinkedIn**:
-- 📧 **Email**: theycallmeaabiegmail.com
+- 🔗 **LinkedIn**: theycallmeaabie
+- 📧 **Email**: theycallmeaabie@gmail.com
 
 ---
 
