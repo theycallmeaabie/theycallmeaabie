@@ -1,63 +1,55 @@
-## 👋 About Me
+## Hey, I'm Aabid Sattar 👋
 
+Systems thinker • Builder • Open-source enthusiast
 
-<div style="display:flex; align-items:center; gap:20px;">
-
-<div style="flex:1;">
-  
-Hi! I'm **Aabid Sattar** 😊  
-
-🎓 **AI/ML 1st Year Student** at **Polaris School Of Technology**  
-🌱 Currently exploring **Open Source** and trying to contribute through **LFX**
-
-
-
-
-## 🌐 Connect With Me
-
-- 🔗 **LinkedIn**: theycallmeaabie
-- 📧 **Email**: theycallmeaabie@gmail.com
+I like understanding how things work — from Linux internals to ML pipelines — and building systems on top of that.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-### 💻 Languages I Know
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**  
+Python • Go • JavaScript • Bash • SQL • HTML • CSS  
 
-### 📚 Currently Learning
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Web**  
+React • Node.js  
 
----
+**ML & Data**  
+scikit-learn • Pandas • NumPy • Matplotlib • Seaborn • Streamlit  
 
-## 🌟 What I’m Interested In
-
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🌍 Open Source Contributions  
-- 🧠 Learning new technologies step by step
-  
+**Environment**  
+Linux • Git  
 
 ---
 
-## ✨ A Small Promise to Myself
+## 🌍 Open Source
 
-> “I may be a beginner today, but I am consistent — and that’s my superpower 💪”
+Exploring and contributing to open-source projects across the Linux Foundation and CNCF ecosystem.
 
+- Working with real-world codebases  
+- Contributing through issues, PRs, and discussions  
+- Learning how large systems are designed and maintained  
 
+---
 
-<!--
-**theycallmeaabie/theycallmeaabie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚧 Current Focus
 
-Here are some ideas to get you started:
+- Linux internals — syscalls, scheduling, memory  
+- ML pipelines — beyond just models  
+- Full-stack systems with React + Node.js + SQL  
+- Writing better, cleaner, and more maintainable code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💬 Ask Me About
+
+- Linux rabbit holes & system-level concepts  
+- Python for ML & data  
+- Go and backend systems  
+- Web architecture  
+
+---
+
+## 📌 Philosophy
+
+Build → Break → Understand → Repeat
