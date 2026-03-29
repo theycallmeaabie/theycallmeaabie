@@ -1,6 +1,6 @@
 ## Hey, I'm Aabid Sattar
 
-Systems thinker • Builder • Open-source contributor in progress
+Systems thinker • Builder • Open-source contributor
 
 I like understanding how things work — from Linux internals to ML pipelines — and then building on top of them.  
 
